@@ -1,4 +1,4 @@
-# advent-of-code-template
+# Advent of Code 2023
 
 ```
 bundle install
